@@ -2,7 +2,9 @@
 # GhostStroke (C++)
 
 This project is a Windows-based keylogger built using C++. It records both keyboard and mouse inputs and logs them into a file named log.txt. Every keystroke is saved with a human-readable label, simplifying analysis.
-
+<p align="center">
+<img src="https://github.com/Ayush170803/GhostStroke/blob/main/GhostStrokePic.jpg" height="400px" width="500px">
+</p>
 # Functionality
 
 The keylogger operates in the background, capturing keystrokes as the user types. It utilizes Windows API functions to track key presses and logs them efficiently.
